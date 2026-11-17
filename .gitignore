@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+*.log
+work/**
+outputs/**
+!work/PLAN.md
+!work/SUBMISSION_CHECKLIST.md
+!work/AI_USE.md
+/HANDOFF.md
